@@ -1,9 +1,8 @@
-# README
+# RAILS BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first rails project. Trying to get familiar with Ruby on Rails :)
 
-Things you may want to cover:
+<!-- Things you may want to cover:
 
 * Ruby version
 
@@ -21,4 +20,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
